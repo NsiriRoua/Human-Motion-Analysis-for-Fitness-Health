@@ -11,15 +11,17 @@ This Project is based on [PoseNet](https://www.ri.cmu.edu/publications/openpose-
 
 ![image](https://user-images.githubusercontent.com/75584699/148693526-54373f57-79ed-440a-bf82-3e527e799d48.png)
 
- https://github.com/NsiriRoua/Yoga-Pose-Estimation/blob/main/Dataset_Creation.ipynb
+  https://github.com/NsiriRoua/Yoga-Pose-Estimation/blob/main/Dataset_Creation.ipynb
  - Dataset_Creation
    * collect yoga pose videos from youtube  
    * divide videos into small frames (subclips)
    * Resize and normalize 
-   
+   https://github.com/NsiriRoua/Yoga-Pose-Estimation/blob/main/Whole_Body_Pose_Estimation.ipynb
    
  - Yoga_Poses_Detection
    * Detecting poses in the frames
+   
+   
  - Whole_Body_Pose_Estimation
    * Data Augmentation 
    * Build Model : VGG19
