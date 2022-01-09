@@ -5,7 +5,7 @@ Pose estimation is a hot topic now-a-days. It is being used in video-surveillanc
 So,Using PoseNet we get key points of human limbs. Output of keypoints is (x,y) co-ordinate value. Then using these keypoints we can determine angles of different limb of our body or can use these point in classifier model for human acitivity detection. There are some out performing model for pose estimation like: OpenPose pose estimation model which can also be inferenced in CPU.
 
 So 
-This Project is based on [OpenPose](https://www.ri.cmu.edu/publications/openpose-whole-body-pose-estimation/), and [VGG19](https://keras.io/api/applications/vgg/)
+This Project is based on [PoseNet](https://www.ri.cmu.edu/publications/openpose-whole-body-pose-estimation/), and [VGG19](https://keras.io/api/applications/vgg/)
 
 ## Workflow 
 
