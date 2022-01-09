@@ -15,7 +15,7 @@ This Project is based on [PoseNet](https://www.ri.cmu.edu/publications/openpose-
    * We collected yoga pose videos from youtube  
    * We divided videos into small frames (subclips)
  - Yoga_Poses_Detection
- Detecting poses in the frames
+   * Detecting poses in the frames
  - Whole_Body_Pose_Estimation
    * Data Augmentation 
    * Build Model : VGG19
