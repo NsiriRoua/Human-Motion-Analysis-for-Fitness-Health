@@ -6,9 +6,9 @@ This Project is based on [OpenPose](https://www.ri.cmu.edu/publications/openpose
 
 ![image](https://user-images.githubusercontent.com/75584699/148693526-54373f57-79ed-440a-bf82-3e527e799d48.png)
  
- - Dataset_Creation.ipynb
- - Yoga_Poses_Detection.ipynb
- - Whole_Body_Pose_Estimation.ipynb
+ - Dataset_Creation
+ - Yoga_Poses_Detection
+ - Whole_Body_Pose_Estimation
 
 
 
