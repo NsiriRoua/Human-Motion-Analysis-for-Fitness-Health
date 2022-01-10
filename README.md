@@ -34,5 +34,5 @@ This Project is based on [PoseNet](https://www.ri.cmu.edu/publications/openpose-
 
 
 ## Results 
-https://l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1-AKfAcuiSZscH6vxY6FT8OUzDWM2TwOd%2Fview%3Fusp%3Dsharing%26fbclid%3DIwAR3wrQnsdcYOwMIXw5PWxaRwmTeE1H7uWCkviMdCbIm3wxh8m1Lcq9X7pss&h=AT0aZBINCDvV-uPoPOm-k4BgGw1-lUlVDhqDdi-IQZIbCIULJhyRvzHzFtQaQlU-ZUZNcp9UI2zoNvFM8wvDl6vCqgImHvoqlksAb5BK4Ot16QYFmnLYKM0b6AD8yOwJpEeT_w
+
 
