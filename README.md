@@ -5,7 +5,7 @@
 
 Pose estimation is a hot topic now-a-days. It is being used in video-surveillance system to sport analysis tasks. Some of the classical problem can be solved using pose estimation like: person count in a frame, fall detection, smart fitness tracking app etc. Basicly by using pose estimation we can observe the movement of human and take any decision Before of deep learning arena HoG and SIFT based approach used in feature extraction. But because of CNN these feature extraction process become more accurate using lots of data.
 So,Using PoseNet we get key points of human limbs. Output of keypoints is (x,y) co-ordinate value. Then using these keypoints we can determine angles of different limb of our body or can use these point in classifier model for human acitivity detection. There are some out performing model for pose estimation like: OpenPose pose estimation model which can also be inferenced in CPU.
-Our mission is to detect 4 yoga poses :
+   -Our mission is to detect 4 yoga poses :
       * Donwdog
       * Warrior
       * Plank
